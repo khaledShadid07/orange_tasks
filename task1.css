@@ -12,7 +12,7 @@ input{background-color: gray;}
 .img1{width: 200px;height: 250px;position: absolute;top:0px;right: 30px;border-radius: 5px;}
 .IMG2{width: 350px;}
 @media screen and (width<600px) {
-  body{background-color: red;}
-  .IMG2{width: 150px;}
+
+  .IMG2{width: 100px;}
   
 }
